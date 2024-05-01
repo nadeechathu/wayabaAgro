@@ -1,0 +1,15 @@
+.my-account-field:focus {
+    color: #212529 !important;
+    background-color: #fff !important;
+    border-color: #236701 !important;
+    outline: 0 !important;
+    /* box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%) !important; */
+}
+
+.my-account-btn {
+    z-index: 100;
+}
+
+#v-pills-wishlist .wishlist-prod-img{
+    width: 45% !important;
+}

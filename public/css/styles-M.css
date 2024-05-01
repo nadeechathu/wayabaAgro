@@ -1,0 +1,87 @@
+  /*Blog Archive*/
+  
+  .blog-cardbg {
+      background-color: #ececec;
+  }
+  
+  .green-bg-1 {
+      color: #005c32;
+  }
+  
+  .about-vision-sec {
+      background-image: url('/images/frontend/about-us/About-Us-(2)_03.png');
+      background-size: cover;
+  }
+  
+  .about-mision-sec {
+      background-image: url('/images/frontend/about-us/About-Us-(2)_07.png');
+      background-size: cover;
+  }
+  
+  .dark-green-title {
+      color: #056037;
+  }
+  
+  .border-green {
+      border-bottom: solid 2px #00a34d;
+  }
+  
+  .blog-font-black {
+      color: #494949;
+  }
+  
+  .blog-btn-color {
+      background-color: #51ba5a;
+  }
+  
+  .blog-btn-color-2 {
+      background-color: #056037;
+  }
+  
+  .font-20 {
+      font-size: 18px;
+  }
+  
+  .border-green-2 {
+      border: solid 2px #056037;
+  }
+  
+  .font-m-30 {
+      font-size: 30px;
+  }
+  
+  .nav-pills .nav-link {
+      background: 0 0;
+      border: 0;
+      border-radius: .25rem;
+      color: #0e653d;
+  }
+  
+  .nav-pills .nav-link.active,
+  .nav-pills .show>.nav-link {
+      color: #fff;
+      background-color: #0e653d;
+  }
+  
+  .save-btn {
+      color: #fff;
+      background-color: #0e653d;
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 991px) {
+      .font-tab-20 {
+          font-size: 20px;
+      }
+      .font-tab-15 {
+          font-size: 15px;
+      }
+      .font-tab-8 {
+          font-size: 8px;
+      }
+  }
+  
+  @media (min-width: 992px) and (max-width: 1199px) {
+      .font-tab-land-14 {
+          font-size: 14px;
+      }
+  }
